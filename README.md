@@ -18,19 +18,6 @@ We fine-tuned the LLaMA model using [Unsloth](https://github.com/unslothai/unslo
 
 ---
 
-## 🔊 Sample Audio Input
-
-Here's a sample audio used for testing the model:
-
-```html
-<audio controls>
-  <source src="samples/sample_input.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-```
-
----
-
 ## 🧪 Experiments & Hypotheses
 
 We explored three different hypotheses to build the speech-to-speech pipeline:
@@ -63,14 +50,6 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
 <img src="diagrams/method2_pipeline.png" alt="Method 2 Pipeline" width="600"/>
 ```
 
-* **Sample Output Audio**:
-
-```html
-<audio controls>
-  <source src="samples/method2_output.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-```
 
 ---
 
@@ -87,16 +66,6 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
 ```html
 <img src="diagrams/method3_pipeline.png" alt="Method 3 Pipeline" width="600"/>
 ```
-
-* **Sample Output Audio**:
-
-```html
-<audio controls>
-  <source src="samples/method3_output.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-```
-
 ---
 
 ## 📂 Project Structure
