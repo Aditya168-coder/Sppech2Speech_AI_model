@@ -61,7 +61,11 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
   This is a more straightforward pipeline using Whisper for transcription and gTTS for synthesis, with the LLaMA model providing intermediate natural language transformation.
 
 * **Diagram**:
+
+
 ![Method 2 Pipeline](Image2.jpg)
+
+---
 ## 📂 Project Structure
 
 ```
