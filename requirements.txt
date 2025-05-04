@@ -1,0 +1,8 @@
+datasets
+gtts
+huggingface_hub
+torch
+torchaudio
+transformers
+unsloth
+openai-whisper
