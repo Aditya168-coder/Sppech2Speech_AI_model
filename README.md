@@ -46,7 +46,7 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
 
 * **Diagram**:
 
-![Method 2 Pipeline](Image1)
+![Method 2 Pipeline](Image1.jpg)
 
 
 
