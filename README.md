@@ -65,14 +65,14 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
 ## 📂 Project Structure
 
 ```
-├── audio_encoder/           # Models and scripts for training audio-to-token encoders
-├── llama_finetune/          # Scripts for Unsloth-based LLaMA fine-tuning
-├── inference/               # Speech-to-speech inference scripts
-├── samples/                 # Input/output audio samples
-├── diagrams/                # Visual representations of each method
-├── VB_m2_final.ipynb        # Experiment notebook for Method 2
-├── VB_m3_final.ipynb        # Experiment notebook for Method 3
-└── requirements.txt         # Dependencies
+├── fine_tune_with_unsloth/          
+├── output_audio_files/         
+├── sample_input_audio_file/               
+├── Image1.png                 
+├── Image2.jpg                
+├── VB_m2_final.ipynb        
+├── VB_m3_final.ipynb        
+└── requirements.txt         
 ```
 
 ---
