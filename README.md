@@ -46,9 +46,8 @@ We explored three different hypotheses to build the speech-to-speech pipeline:
 
 * **Diagram**:
 
-```html
-<img src="diagrams/method2_pipeline.png" alt="Method 2 Pipeline" width="600"/>
-```
+![Method 2 Pipeline](Image1)
+
 
 
 ---
